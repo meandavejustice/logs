@@ -1,0 +1,6 @@
+baseURL = 'https://logs.justice.engineering/'
+languageCode = 'en-us'
+title = 'Transmissions from Justice Engineering'
+theme = 'blank'
+disqusShortname = ""
+
